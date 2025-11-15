@@ -22,4 +22,3 @@ app.use('/', autenticador, loginOk)
 app.listen(3000, () => console.log('Server rodando na 3000'));
 
 
-//senha ywQvISDT3fAjh5C9
