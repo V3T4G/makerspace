@@ -1,4 +1,4 @@
-<h1 align="center">🌌 MakeSpace – Backend 🌌</h1>
+<h1 align="center">🌌 MakerSpace – Backend 🌌</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18+-0aff0a?style=for-the-badge&logo=node.js&logoColor=black" />
