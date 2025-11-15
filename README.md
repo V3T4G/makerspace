@@ -14,12 +14,6 @@
 
 <h1 align="center">📌 Funcionalidades 📌</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-0aff0a?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-Neon-8a00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Security-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-On%20Going-00c3ff?style=for-the-badge" />
-</p>
 
 Cadastro de usuários
 
@@ -33,12 +27,6 @@ Ponto de partida para futuras rotas de cursos
 
 <h1 align="center">🚦Fluxo de Rotas🚦</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-0aff0a?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-Neon-8a00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Security-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-On%20Going-00c3ff?style=for-the-badge" />
-</p>
 
 /cadastro
 
@@ -79,12 +67,6 @@ devolve em formato JSON
 ------------------------------------------------------------------------
 <h1 align="center">🛠Tecnologias Utilizadas🛠</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-0aff0a?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-Neon-8a00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Security-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-On%20Going-00c3ff?style=for-the-badge" />
-</p>
 
 
 Node.js
@@ -101,11 +83,7 @@ Mongo DB
 
 <h1 align="center">🚀 Como iniciar o projeto 🚀</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-0aff0a?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-Neon-8a00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Security-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-On%20Going-00c3ff?style=for-the-badge" />
+
 
 npm install
 npm run dev
